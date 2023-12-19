@@ -34,7 +34,7 @@
     "unirest": "^0.6.0",
     "winston": "^3.3.3",
     "word-count": "^0.2.2",
-    "zod": "^3.21.4"
+    "zod": "^3.22.3"
   },
   "devDependencies": {
     "@types/agenda": "^2.0.9",
